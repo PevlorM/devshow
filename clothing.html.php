@@ -52,7 +52,7 @@
 	  </div>
         <?php
             
-            $author         = "Samuel Wilde";
+            $author         = "------";
             $dateWritten    = "05/05/2020";
             $dbName         ="Nguvu";
             require ("connecti2db.inc.php");//sets $connection
